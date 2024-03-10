@@ -1,1 +1,1 @@
-# CodeClauseInternship_Market_Basket_Analysis_in_Python_using_Apriori_Algorithm
+# Market_Basket_Analysis_in_Python_using_Apriori_Algorithm
